@@ -1,7 +1,10 @@
 # Cube-jump
 
 This game is a typical arcade game where the player is cube, which must jump over the obstacles. 
-The game has a store, table of best results and minimal settings.
+## Game features 
+- Store
+- Table of best results
+- Minimal settings.
 
 - Control key: jump [Space]
 
